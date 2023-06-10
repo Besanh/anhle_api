@@ -11,16 +11,16 @@ const config = {
   favicon: 'img/upload/logo-4la.png',
 
   // Set the production url of your site here
-  url: 'https://besanh.github.io/open_api',
+  url: 'https://besanh.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/open_api/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'besanh', // Usually your GitHub org/user name.
   projectName: 'open_api', // Usually your repo name.
-  deploymentBranch: "gh-pages",
+  deploymentBranch: "publish",
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -30,7 +30,23 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'vi'],
+    locales: ['en', 'vn'],
+    localeConfigs: {
+      en: {
+        label: 'English',
+        direction: 'ltr',
+        htmlLang: 'en-US',
+        calendar: 'gregory',
+        path: 'en',
+      },
+      vn: {
+        label: 'Vietnamese',
+        direction: 'ltr',
+        htmlLang: 'vi-VN',
+        calendar: 'gregory',
+        path: 'vn',
+      },
+    },
   },
 
   presets: [
@@ -40,17 +56,9 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -71,6 +79,10 @@ const config = {
           src: 'img/upload/logo-4la.png',
         },
         items: [
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          },
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
