@@ -14,12 +14,12 @@ const config = {
   url: 'https://besanh.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/open_api/',
+  baseUrl: '/anhle_api/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'anhle', // Usually your GitHub org/user name.
-  projectName: 'open_api', // Usually your repo name.
+  projectName: 'anhle_api', // Usually your repo name.
   deploymentBranch: "publish",
 
   onBrokenLinks: 'throw',

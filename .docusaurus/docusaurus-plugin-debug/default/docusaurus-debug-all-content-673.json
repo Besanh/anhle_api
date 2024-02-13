@@ -9,8 +9,8 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/open_api/docs",
-          "tagsPath": "/open_api/docs/tags",
+          "path": "/anhle_api/docs",
+          "tagsPath": "/anhle_api/docs/tags",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "/Users/anhle/Downloads/BesAnh/Dev/UI/open_api/sidebars.js",
@@ -25,7 +25,7 @@
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/open_api/docs/intro",
+              "permalink": "/anhle_api/docs/intro",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -36,7 +36,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Tutorial - Open Weather API",
-                "permalink": "/open_api/docs/category/tutorial---open-weather-api"
+                "permalink": "/anhle_api/docs/category/tutorial---open-weather-api"
               }
             },
             {
@@ -47,7 +47,7 @@
               "source": "@site/docs/tutorial-basics/api-get-current-weather.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/api-get-current-weather",
-              "permalink": "/open_api/docs/tutorial-basics/api-get-current-weather",
+              "permalink": "/anhle_api/docs/tutorial-basics/api-get-current-weather",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -58,11 +58,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Tutorial - Open Weather API",
-                "permalink": "/open_api/docs/category/tutorial---open-weather-api"
+                "permalink": "/anhle_api/docs/category/tutorial---open-weather-api"
               },
               "next": {
                 "title": "API Get Historical Weather",
-                "permalink": "/open_api/docs/tutorial-basics/api-get-historical-weather"
+                "permalink": "/anhle_api/docs/tutorial-basics/api-get-historical-weather"
               }
             },
             {
@@ -73,7 +73,7 @@
               "source": "@site/docs/tutorial-basics/api-get-historical-weather.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/api-get-historical-weather",
-              "permalink": "/open_api/docs/tutorial-basics/api-get-historical-weather",
+              "permalink": "/anhle_api/docs/tutorial-basics/api-get-historical-weather",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -84,11 +84,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "API Get Current Weather",
-                "permalink": "/open_api/docs/tutorial-basics/api-get-current-weather"
+                "permalink": "/anhle_api/docs/tutorial-basics/api-get-current-weather"
               },
               "next": {
                 "title": "Tutorial - Extras",
-                "permalink": "/open_api/docs/category/tutorial---extras"
+                "permalink": "/anhle_api/docs/category/tutorial---extras"
               }
             },
             {
@@ -99,7 +99,7 @@
               "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/manage-docs-versions",
-              "permalink": "/open_api/docs/tutorial-extras/manage-docs-versions",
+              "permalink": "/anhle_api/docs/tutorial-extras/manage-docs-versions",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -110,11 +110,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Tutorial - Extras",
-                "permalink": "/open_api/docs/category/tutorial---extras"
+                "permalink": "/anhle_api/docs/category/tutorial---extras"
               },
               "next": {
                 "title": "Translate your site",
-                "permalink": "/open_api/docs/tutorial-extras/translate-your-site"
+                "permalink": "/anhle_api/docs/tutorial-extras/translate-your-site"
               }
             },
             {
@@ -125,7 +125,7 @@
               "source": "@site/docs/tutorial-extras/translate-your-site.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/translate-your-site",
-              "permalink": "/open_api/docs/tutorial-extras/translate-your-site",
+              "permalink": "/anhle_api/docs/tutorial-extras/translate-your-site",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -136,7 +136,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Manage Docs Versions",
-                "permalink": "/open_api/docs/tutorial-extras/manage-docs-versions"
+                "permalink": "/anhle_api/docs/tutorial-extras/manage-docs-versions"
               }
             }
           ],
@@ -166,7 +166,7 @@
                   "type": "generated-index",
                   "description": "5 minutes to introduce about Open Weather API.",
                   "slug": "/category/tutorial---open-weather-api",
-                  "permalink": "/open_api/docs/category/tutorial---open-weather-api"
+                  "permalink": "/anhle_api/docs/category/tutorial---open-weather-api"
                 }
               },
               {
@@ -187,7 +187,7 @@
                 "link": {
                   "type": "generated-index",
                   "slug": "/category/tutorial---extras",
-                  "permalink": "/open_api/docs/category/tutorial---extras"
+                  "permalink": "/anhle_api/docs/category/tutorial---extras"
                 }
               }
             ]
@@ -203,20 +203,20 @@
         {
           "id": "mie-tie",
           "metadata": {
-            "permalink": "/open_api/blog/mie-tie",
+            "permalink": "/anhle_api/blog/mie-tie",
             "source": "@site/blog/mie-tie/index.md",
             "title": "Quà Valentine 14/2/2024 - Truong Thi Thuy Tien(Mie Tie)",
             "description": "Xin chào, anh đây",
-            "date": "2024-02-13T12:30:59.303Z",
+            "date": "2024-02-13T13:51:28.000Z",
             "formattedDate": "February 13, 2024",
             "tags": [
               {
                 "label": "mie-tie",
-                "permalink": "/open_api/blog/tags/mie-tie"
+                "permalink": "/anhle_api/blog/tags/mie-tie"
               },
               {
                 "label": "anhle",
-                "permalink": "/open_api/blog/tags/anhle"
+                "permalink": "/anhle_api/blog/tags/anhle"
               }
             ],
             "readingTime": 1.82,
@@ -243,7 +243,7 @@
             },
             "nextItem": {
               "title": "Welcome",
-              "permalink": "/open_api/blog/welcome"
+              "permalink": "/anhle_api/blog/welcome"
             }
           },
           "content": "Xin chào, anh đây  \nĐây là 1 bài viết nho nhỏ, 1 món quà nhân ngày 14/2 dành tặng cho Tiên - cô gái nhỏ nhắn.\nCô gái này dù anh chưa gặp ở ngoài đời nhưng anh cảm nhận dễ thương lắm, giỏi nữa, việc gì cũng làm được.\nCứ thích nói chuyện với em.\nCàng nói chuyện càng thấy thích em hơn.\nƠ tự nhiên anh muốn gặp em, hẹn hò với em, được nắm tay, chăm sóc em.\nĐợt Tết này không thể ở cạnh em lúc em bệnh, lúc em đến tháng, cũng không thể giúp em giặt đồ. Nhưng mà hứa lo cho em thì anh sẽ không để em phải làm mọi việc 1 anh nữa. Sẽ cố gắng bên em, chăm sóc em lúc em bệnh, mua đồ cho em lúc em đến tháng.  \nLà 1 đứa con trai thì hứa được làm được.  \nMấy hình ảnh có em thì anh đều lưu lại thành 1 album riêng luôn ấy. Em xem này...\n\n![Hình đầu tiên](./IMG_2743.JPG \"Hình đầu tiên\")\n**Anh siêu siêu thích ảnh này luôn :heart:**\n\n![Hình thứ 2](./IMG_2793.JPG \"Hình thứ 2\")\n**Nhìn là ưng luôn ấy :rose:**\n\n![Hình thứ 3](./IMG_2816.JPG \"Hình thứ 3\")\n**Đổ đứ đừ đư :rose:**\n\n| ![Hình thứ 4](./IMG_2869.JPG \"Hình thứ 4\")      | ![Hình thứ 5](./IMG_2890.JPG \"Hình thứ 5\") |\n| ----------- | ----------- |\n| ![Hình thứ 6](./IMG_2886.JPG \"Hình thứ 6\")      | ![Hình thứ 7](./IMG_2887.JPG \"Hình thứ 7\") |\n**<mark>Xỉu up xỉu down</mark>**\n\n![Hình thứ 8](./IMG_2888.JPG \"Hình thứ 8\")  \n**Phải trân trọng những hình ảnh về em**\n\n![Hình thứ 9](./IMG_2980.JPG \"Hình thứ 9\")\n**Em :heart::heart:**\n\nTadaaaa, và đây là hình cuối\n![Hình cuối](./IMG_2905.PNG \"Hình cuối\")\n\n> Bất cứ chuyện gì xảy ra vs em thì người đầu tiên em thông báo phải là anh.\nKhông được nhờ ai khác ngoài anh vì em là người quan trọng nhất :four_leaf_clover:\n\nAnh muốn gặp em và biến em thành người bạn gái tuyệt vời của anh.  \nAnh thương bạn gái và thỉnh thoảng hài hước lắm ấy. Cho anh được tìm hiểu em nha.  \nLời hứa và lời tỏ tình nên được nói trực tiếp thì mới ý nghĩa và trọn vẹn :heart::four_leaf_clover:"
@@ -251,7 +251,7 @@
         {
           "id": "welcome",
           "metadata": {
-            "permalink": "/open_api/blog/welcome",
+            "permalink": "/anhle_api/blog/welcome",
             "source": "@site/blog/2021-08-26-welcome/index.md",
             "title": "Welcome",
             "description": "Docusaurus blogging features are powered by the blog plugin.",
@@ -260,15 +260,15 @@
             "tags": [
               {
                 "label": "facebook",
-                "permalink": "/open_api/blog/tags/facebook"
+                "permalink": "/anhle_api/blog/tags/facebook"
               },
               {
                 "label": "hello",
-                "permalink": "/open_api/blog/tags/hello"
+                "permalink": "/anhle_api/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/open_api/blog/tags/docusaurus"
+                "permalink": "/anhle_api/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.405,
@@ -286,7 +286,7 @@
             },
             "prevItem": {
               "title": "Quà Valentine 14/2/2024 - Truong Thi Thuy Tien(Mie Tie)",
-              "permalink": "/open_api/blog/mie-tie"
+              "permalink": "/anhle_api/blog/mie-tie"
             }
           },
           "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
@@ -299,7 +299,7 @@
             "welcome"
           ],
           "metadata": {
-            "permalink": "/open_api/blog",
+            "permalink": "/anhle_api/blog",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
@@ -310,19 +310,19 @@
         }
       ],
       "blogTags": {
-        "/open_api/blog/tags/mie-tie": {
+        "/anhle_api/blog/tags/mie-tie": {
           "label": "mie-tie",
           "items": [
             "mie-tie"
           ],
-          "permalink": "/open_api/blog/tags/mie-tie",
+          "permalink": "/anhle_api/blog/tags/mie-tie",
           "pages": [
             {
               "items": [
                 "mie-tie"
               ],
               "metadata": {
-                "permalink": "/open_api/blog/tags/mie-tie",
+                "permalink": "/anhle_api/blog/tags/mie-tie",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -333,19 +333,19 @@
             }
           ]
         },
-        "/open_api/blog/tags/anhle": {
+        "/anhle_api/blog/tags/anhle": {
           "label": "anhle",
           "items": [
             "mie-tie"
           ],
-          "permalink": "/open_api/blog/tags/anhle",
+          "permalink": "/anhle_api/blog/tags/anhle",
           "pages": [
             {
               "items": [
                 "mie-tie"
               ],
               "metadata": {
-                "permalink": "/open_api/blog/tags/anhle",
+                "permalink": "/anhle_api/blog/tags/anhle",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -356,19 +356,19 @@
             }
           ]
         },
-        "/open_api/blog/tags/facebook": {
+        "/anhle_api/blog/tags/facebook": {
           "label": "facebook",
           "items": [
             "welcome"
           ],
-          "permalink": "/open_api/blog/tags/facebook",
+          "permalink": "/anhle_api/blog/tags/facebook",
           "pages": [
             {
               "items": [
                 "welcome"
               ],
               "metadata": {
-                "permalink": "/open_api/blog/tags/facebook",
+                "permalink": "/anhle_api/blog/tags/facebook",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -379,19 +379,19 @@
             }
           ]
         },
-        "/open_api/blog/tags/hello": {
+        "/anhle_api/blog/tags/hello": {
           "label": "hello",
           "items": [
             "welcome"
           ],
-          "permalink": "/open_api/blog/tags/hello",
+          "permalink": "/anhle_api/blog/tags/hello",
           "pages": [
             {
               "items": [
                 "welcome"
               ],
               "metadata": {
-                "permalink": "/open_api/blog/tags/hello",
+                "permalink": "/anhle_api/blog/tags/hello",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -402,19 +402,19 @@
             }
           ]
         },
-        "/open_api/blog/tags/docusaurus": {
+        "/anhle_api/blog/tags/docusaurus": {
           "label": "docusaurus",
           "items": [
             "welcome"
           ],
-          "permalink": "/open_api/blog/tags/docusaurus",
+          "permalink": "/anhle_api/blog/tags/docusaurus",
           "pages": [
             {
               "items": [
                 "welcome"
               ],
               "metadata": {
-                "permalink": "/open_api/blog/tags/docusaurus",
+                "permalink": "/anhle_api/blog/tags/docusaurus",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -426,19 +426,19 @@
           ]
         }
       },
-      "blogTagsListPath": "/open_api/blog/tags"
+      "blogTagsListPath": "/anhle_api/blog/tags"
     }
   },
   "docusaurus-plugin-content-pages": {
     "default": [
       {
         "type": "jsx",
-        "permalink": "/open_api/",
+        "permalink": "/anhle_api/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/open_api/markdown-features-head-metadata",
+        "permalink": "/anhle_api/markdown-features-head-metadata",
         "source": "@site/src/pages/markdown-features-head-metadata.mdx",
         "title": "Head Metadata",
         "description": "Head Metadata customized title!",
@@ -449,7 +449,7 @@
       },
       {
         "type": "mdx",
-        "permalink": "/open_api/markdown-page",
+        "permalink": "/anhle_api/markdown-page",
         "source": "@site/src/pages/markdown-page.md",
         "title": "Markdown page example",
         "description": "You don't need React to write simple standalone pages.",
