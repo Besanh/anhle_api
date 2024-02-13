@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkanh=self.webpackChunkanh||[]).push([[772],{4400:e=>{e.exports=JSON.parse('{"permalink":"/anhle_api/vn/blog/tags/anhle","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

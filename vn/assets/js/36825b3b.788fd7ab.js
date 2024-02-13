@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkanh=self.webpackChunkanh||[]).push([[536],{1016:a=>{a.exports=JSON.parse('{"label":"mie-tie","permalink":"/anhle_api/vn/blog/tags/mie-tie","allTagsPath":"/anhle_api/vn/blog/tags","count":1}')}}]);
