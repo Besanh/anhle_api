@@ -3,151 +3,116 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/anhle_api/__docusaurus/debug',
-    component: ComponentCreator('/anhle_api/__docusaurus/debug', 'b02'),
+    path: '/anhle_api/vn/blog',
+    component: ComponentCreator('/anhle_api/vn/blog', 'ba4'),
     exact: true
   },
   {
-    path: '/anhle_api/__docusaurus/debug/config',
-    component: ComponentCreator('/anhle_api/__docusaurus/debug/config', '33a'),
+    path: '/anhle_api/vn/blog/archive',
+    component: ComponentCreator('/anhle_api/vn/blog/archive', '8f1'),
     exact: true
   },
   {
-    path: '/anhle_api/__docusaurus/debug/content',
-    component: ComponentCreator('/anhle_api/__docusaurus/debug/content', 'ceb'),
+    path: '/anhle_api/vn/blog/mie-tie',
+    component: ComponentCreator('/anhle_api/vn/blog/mie-tie', '5c1'),
     exact: true
   },
   {
-    path: '/anhle_api/__docusaurus/debug/globalData',
-    component: ComponentCreator('/anhle_api/__docusaurus/debug/globalData', 'd33'),
+    path: '/anhle_api/vn/blog/tags',
+    component: ComponentCreator('/anhle_api/vn/blog/tags', '3f7'),
     exact: true
   },
   {
-    path: '/anhle_api/__docusaurus/debug/metadata',
-    component: ComponentCreator('/anhle_api/__docusaurus/debug/metadata', '982'),
+    path: '/anhle_api/vn/blog/tags/anhle',
+    component: ComponentCreator('/anhle_api/vn/blog/tags/anhle', '5be'),
     exact: true
   },
   {
-    path: '/anhle_api/__docusaurus/debug/registry',
-    component: ComponentCreator('/anhle_api/__docusaurus/debug/registry', 'b59'),
+    path: '/anhle_api/vn/blog/tags/docusaurus',
+    component: ComponentCreator('/anhle_api/vn/blog/tags/docusaurus', 'c99'),
     exact: true
   },
   {
-    path: '/anhle_api/__docusaurus/debug/routes',
-    component: ComponentCreator('/anhle_api/__docusaurus/debug/routes', '7a6'),
+    path: '/anhle_api/vn/blog/tags/facebook',
+    component: ComponentCreator('/anhle_api/vn/blog/tags/facebook', 'f39'),
     exact: true
   },
   {
-    path: '/anhle_api/blog',
-    component: ComponentCreator('/anhle_api/blog', 'f96'),
+    path: '/anhle_api/vn/blog/tags/hello',
+    component: ComponentCreator('/anhle_api/vn/blog/tags/hello', '206'),
     exact: true
   },
   {
-    path: '/anhle_api/blog/archive',
-    component: ComponentCreator('/anhle_api/blog/archive', 'd71'),
+    path: '/anhle_api/vn/blog/tags/mie-tie',
+    component: ComponentCreator('/anhle_api/vn/blog/tags/mie-tie', 'd17'),
     exact: true
   },
   {
-    path: '/anhle_api/blog/mie-tie',
-    component: ComponentCreator('/anhle_api/blog/mie-tie', '2d7'),
+    path: '/anhle_api/vn/blog/welcome',
+    component: ComponentCreator('/anhle_api/vn/blog/welcome', '916'),
     exact: true
   },
   {
-    path: '/anhle_api/blog/tags',
-    component: ComponentCreator('/anhle_api/blog/tags', 'd49'),
+    path: '/anhle_api/vn/markdown-features-head-metadata',
+    component: ComponentCreator('/anhle_api/vn/markdown-features-head-metadata', '6c7'),
     exact: true
   },
   {
-    path: '/anhle_api/blog/tags/anhle',
-    component: ComponentCreator('/anhle_api/blog/tags/anhle', '478'),
+    path: '/anhle_api/vn/markdown-page',
+    component: ComponentCreator('/anhle_api/vn/markdown-page', 'ade'),
     exact: true
   },
   {
-    path: '/anhle_api/blog/tags/docusaurus',
-    component: ComponentCreator('/anhle_api/blog/tags/docusaurus', '077'),
-    exact: true
-  },
-  {
-    path: '/anhle_api/blog/tags/facebook',
-    component: ComponentCreator('/anhle_api/blog/tags/facebook', '4ba'),
-    exact: true
-  },
-  {
-    path: '/anhle_api/blog/tags/hello',
-    component: ComponentCreator('/anhle_api/blog/tags/hello', 'b35'),
-    exact: true
-  },
-  {
-    path: '/anhle_api/blog/tags/mie-tie',
-    component: ComponentCreator('/anhle_api/blog/tags/mie-tie', 'db6'),
-    exact: true
-  },
-  {
-    path: '/anhle_api/blog/welcome',
-    component: ComponentCreator('/anhle_api/blog/welcome', 'c7f'),
-    exact: true
-  },
-  {
-    path: '/anhle_api/markdown-features-head-metadata',
-    component: ComponentCreator('/anhle_api/markdown-features-head-metadata', 'a9b'),
-    exact: true
-  },
-  {
-    path: '/anhle_api/markdown-page',
-    component: ComponentCreator('/anhle_api/markdown-page', '9c4'),
-    exact: true
-  },
-  {
-    path: '/anhle_api/docs',
-    component: ComponentCreator('/anhle_api/docs', 'a54'),
+    path: '/anhle_api/vn/docs',
+    component: ComponentCreator('/anhle_api/vn/docs', 'a9d'),
     routes: [
       {
-        path: '/anhle_api/docs/category/tutorial---extras',
-        component: ComponentCreator('/anhle_api/docs/category/tutorial---extras', '571'),
+        path: '/anhle_api/vn/docs/category/tutorial---extras',
+        component: ComponentCreator('/anhle_api/vn/docs/category/tutorial---extras', '6e9'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/anhle_api/docs/category/tutorial---open-weather-api',
-        component: ComponentCreator('/anhle_api/docs/category/tutorial---open-weather-api', 'e74'),
+        path: '/anhle_api/vn/docs/category/tutorial---open-weather-api',
+        component: ComponentCreator('/anhle_api/vn/docs/category/tutorial---open-weather-api', '6c9'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/anhle_api/docs/intro',
-        component: ComponentCreator('/anhle_api/docs/intro', '4ed'),
+        path: '/anhle_api/vn/docs/intro',
+        component: ComponentCreator('/anhle_api/vn/docs/intro', '427'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/anhle_api/docs/tutorial-basics/api-get-current-weather',
-        component: ComponentCreator('/anhle_api/docs/tutorial-basics/api-get-current-weather', '41e'),
+        path: '/anhle_api/vn/docs/tutorial-basics/api-get-current-weather',
+        component: ComponentCreator('/anhle_api/vn/docs/tutorial-basics/api-get-current-weather', '216'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/anhle_api/docs/tutorial-basics/api-get-historical-weather',
-        component: ComponentCreator('/anhle_api/docs/tutorial-basics/api-get-historical-weather', '544'),
+        path: '/anhle_api/vn/docs/tutorial-basics/api-get-historical-weather',
+        component: ComponentCreator('/anhle_api/vn/docs/tutorial-basics/api-get-historical-weather', 'd35'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/anhle_api/docs/tutorial-extras/manage-docs-versions',
-        component: ComponentCreator('/anhle_api/docs/tutorial-extras/manage-docs-versions', 'dfc'),
+        path: '/anhle_api/vn/docs/tutorial-extras/manage-docs-versions',
+        component: ComponentCreator('/anhle_api/vn/docs/tutorial-extras/manage-docs-versions', '589'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/anhle_api/docs/tutorial-extras/translate-your-site',
-        component: ComponentCreator('/anhle_api/docs/tutorial-extras/translate-your-site', '1e5'),
+        path: '/anhle_api/vn/docs/tutorial-extras/translate-your-site',
+        component: ComponentCreator('/anhle_api/vn/docs/tutorial-extras/translate-your-site', '609'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/anhle_api/',
-    component: ComponentCreator('/anhle_api/', '7fa'),
+    path: '/anhle_api/vn/',
+    component: ComponentCreator('/anhle_api/vn/', '5b4'),
     exact: true
   },
   {

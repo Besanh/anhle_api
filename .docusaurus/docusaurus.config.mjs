@@ -9,7 +9,7 @@ export default {
   "favicon": "img/upload/logo-4la.png",
   "url": "https://besanh.github.io",
   "baseUrl": "/anhle_api/",
-  "organizationName": "anhle",
+  "organizationName": "Besanh",
   "projectName": "anhle_api",
   "deploymentBranch": "publish",
   "onBrokenLinks": "throw",
