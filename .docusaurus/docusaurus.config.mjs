@@ -8,7 +8,7 @@ export default {
   "tagline": "Tik Tac Toe",
   "favicon": "img/upload/logo-4la.png",
   "url": "https://besanh.github.io",
-  "baseUrl": "/open_api/",
+  "baseUrl": "/open_api/vn/",
   "organizationName": "anhle",
   "projectName": "open_api",
   "deploymentBranch": "publish",
