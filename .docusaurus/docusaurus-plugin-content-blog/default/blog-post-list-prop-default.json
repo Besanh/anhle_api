@@ -2,20 +2,12 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "Quà Valentine 14/2/2024 - Truong Thi Thuy Tien(Mie Tie)",
+      "permalink": "/open_api/blog/mie-tie"
+    },
+    {
       "title": "Welcome",
-      "permalink": "/blog/welcome"
-    },
-    {
-      "title": "MDX Blog Post",
-      "permalink": "/blog/mdx-blog-post"
-    },
-    {
-      "title": "Long Blog Post",
-      "permalink": "/blog/long-blog-post"
-    },
-    {
-      "title": "First Blog Post",
-      "permalink": "/blog/first-blog-post"
+      "permalink": "/open_api/blog/welcome"
     }
   ]
 }

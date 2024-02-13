@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Open API',
+  title: 'AnhLe API',
   tagline: 'Tik Tac Toe',
   favicon: 'img/upload/logo-4la.png',
 
@@ -18,7 +18,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'besanh', // Usually your GitHub org/user name.
+  organizationName: 'anhle', // Usually your GitHub org/user name.
   projectName: 'open_api', // Usually your repo name.
   deploymentBranch: "publish",
 
@@ -113,12 +113,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Facebook',
-                href: 'https://www.facebook.com/anhle32',
-              },
-              {
-                label: 'Youtube',
-                href: 'https://www.youtube.com/channel/UCpft3wCbY_RegsPYaZeBdWA',
+                label: 'GitHub',
+                href: 'https://github.com/Besanh',
               },
               {
                 label: 'Linkedin',
@@ -130,8 +126,12 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/Besanh',
+                label: 'Facebook',
+                href: 'https://www.facebook.com/anhle32',
+              },
+              {
+                label: 'Youtube',
+                href: 'https://www.youtube.com/channel/UCpft3wCbY_RegsPYaZeBdWA',
               },
             ],
           },

@@ -4,44 +4,58 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Open API",
+  "title": "AnhLe API",
   "tagline": "Tik Tac Toe",
   "favicon": "img/upload/logo-4la.png",
-  "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/",
-  "organizationName": "AnhLe",
+  "url": "https://besanh.github.io",
+  "baseUrl": "/open_api/",
+  "organizationName": "anhle",
   "projectName": "open_api",
+  "deploymentBranch": "publish",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
       "en",
-      "vi"
+      "vn"
     ],
-    "path": "i18n",
-    "localeConfigs": {}
+    "localeConfigs": {
+      "en": {
+        "label": "English",
+        "direction": "ltr",
+        "htmlLang": "en-US",
+        "calendar": "gregory",
+        "path": "en"
+      },
+      "vn": {
+        "label": "Vietnamese",
+        "direction": "ltr",
+        "htmlLang": "vi-VN",
+        "calendar": "gregory",
+        "path": "vn"
+      }
+    },
+    "path": "i18n"
   },
   "presets": [
     [
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/anhle/Downloads/BesAnh/Dev/open_api/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "sidebarPath": "/Users/anhle/Downloads/BesAnh/Dev/UI/open_api/sidebars.js"
         },
         "blog": {
-          "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "showReadingTime": true
         },
         "theme": {
-          "customCss": "/Users/anhle/Downloads/BesAnh/Dev/open_api/src/css/custom.css"
+          "customCss": "/Users/anhle/Downloads/BesAnh/Dev/UI/open_api/src/css/custom.css"
         }
       }
     ]
   ],
   "themeConfig": {
-    "image": "img/docusaurus-social-card.jpg",
+    "image": "img/logo-4la.png",
     "navbar": {
       "title": "Home",
       "logo": {
@@ -49,6 +63,12 @@ export default {
         "src": "img/upload/logo-4la.png"
       },
       "items": [
+        {
+          "type": "localeDropdown",
+          "position": "right",
+          "dropdownItemsBefore": [],
+          "dropdownItemsAfter": []
+        },
         {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
@@ -84,12 +104,8 @@ export default {
           "title": "Community",
           "items": [
             {
-              "label": "Facebook",
-              "href": "https://www.facebook.com/anhle32"
-            },
-            {
-              "label": "Youtube",
-              "href": "https://www.youtube.com/channel/UCpft3wCbY_RegsPYaZeBdWA"
+              "label": "GitHub",
+              "href": "https://github.com/Besanh"
             },
             {
               "label": "Linkedin",
@@ -101,8 +117,12 @@ export default {
           "title": "More",
           "items": [
             {
-              "label": "GitHub",
-              "href": "https://github.com/Besanh"
+              "label": "Facebook",
+              "href": "https://www.facebook.com/anhle32"
+            },
+            {
+              "label": "Youtube",
+              "href": "https://www.youtube.com/channel/UCpft3wCbY_RegsPYaZeBdWA"
             }
           ]
         }

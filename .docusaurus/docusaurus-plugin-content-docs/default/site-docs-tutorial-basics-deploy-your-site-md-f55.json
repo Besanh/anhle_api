@@ -6,9 +6,8 @@
   "source": "@site/docs/tutorial-basics/deploy-your-site.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/deploy-your-site",
-  "permalink": "/docs/tutorial-basics/deploy-your-site",
+  "permalink": "/open_api/docs/tutorial-basics/deploy-your-site",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/deploy-your-site.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 5,
@@ -17,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Markdown Features",
-    "permalink": "/docs/tutorial-basics/markdown-features"
+    "title": "API Get Current Weather",
+    "permalink": "/open_api/docs/tutorial-basics/api-get-current-weather"
   },
   "next": {
-    "title": "Congratulations!",
-    "permalink": "/docs/tutorial-basics/congratulations"
+    "title": "Tutorial - Extras",
+    "permalink": "/open_api/docs/category/tutorial---extras"
   }
 }

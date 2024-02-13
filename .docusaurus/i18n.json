@@ -2,7 +2,7 @@
   "defaultLocale": "en",
   "locales": [
     "en",
-    "vi"
+    "vn"
   ],
   "path": "i18n",
   "currentLocale": "en",
@@ -10,16 +10,16 @@
     "en": {
       "label": "English",
       "direction": "ltr",
-      "htmlLang": "en",
+      "htmlLang": "en-US",
       "calendar": "gregory",
       "path": "en"
     },
-    "vi": {
-      "label": "Tiếng Việt",
+    "vn": {
+      "label": "Vietnamese",
       "direction": "ltr",
-      "htmlLang": "vi",
+      "htmlLang": "vi-VN",
       "calendar": "gregory",
-      "path": "vi"
+      "path": "vn"
     }
   }
 }
